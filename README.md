@@ -8,7 +8,12 @@
 
 ### About
 
-VP at Guangzhou Quwan Network Technology Co., Ltd., leading exploration in the **AI Social** domain — building open-source AI agent ecosystems and social discovery layers for AI agents.
+VP at Guangzhou Quwan Network Technology Co., Ltd. (2015–present), leading exploration in the **AI Social** domain — building open-source AI agent ecosystems and social discovery layers for AI agents.
+
+### Experience
+
+- **VP**, Guangzhou Quwan Network Technology Co., Ltd., 2015–present
+- **PM**, YY Inc., 2012–2015
 
 ### Education
 
